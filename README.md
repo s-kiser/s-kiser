@@ -56,8 +56,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
-  <img src="" alt="readiing" width="45" height="45"/>
-  <img src="" alt="writing" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="dgitalocean" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" width="45" height="45"/>
