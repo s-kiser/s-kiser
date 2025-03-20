@@ -51,6 +51,11 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 </p>
 
 ### Hobbies:
+<p align="left">
+<img src="" alt="" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
+<img src="" alt="godot" width="45" height="45"/>
+</p>
 #Blender, #Godot, #reading, #writing, #YouTube
 
 
