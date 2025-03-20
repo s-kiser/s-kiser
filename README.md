@@ -9,7 +9,7 @@
 
 </br>
 
-# Top Tools:
+### Top Tools:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="45" height="45"/>
@@ -31,7 +31,21 @@
 
 </br>
 
-# Other:
+### Basic Info
+```yaml
+Summary: I am a DevOps Engineer with 10++ years doing web development.
+Name: Stephen Elisha Kiser
+Age: 27
+Lives in: Texas
+Education: Self Taught, 1997 - present
+Favorte Books: Goodnight Mr Tom, Crispin: The Cross of Lead, The Redwall Series, The Dark is Riising Series.
+Fun Fact: I have never been to school a day in my life.
+Biggest Accomplishment: Creating an E-Commerce system from scratch.
+```
+
+</br>
+
+### Other:
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="apache2" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="rails" width="45" height="45"/>
@@ -52,7 +66,7 @@
 
 </br>
 
-# Hobbies:
+### Hobbies:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
@@ -67,18 +81,6 @@
 </p>
 
 </br>
-
-# Basic Info
-```yaml
-Summary: I am a DevOps Engineer with 10++ years doing web development.
-Name: Stephen Elisha Kiser
-Age: 27
-Lives in: Texas
-Education: Self Taught, 1997 - present
-Favorte Books: Goodnight Mr Tom, Crispin: The Cross of Lead, The Redwall Series, The Dark is Riising Series.
-Fun Fact: I have never been to school a day in my life.
-Biggest Accomplishment: Creating an E-Commerce system from scratch.
-```
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kiser&show_icons=true&theme=onedark&hide=issues,stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) -->
 
@@ -96,20 +98,25 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 </p> 
 -->
 
-# Ice-Breaker:
+### Ice-Breaker:
 - 🌱 <b>Currently learning:</b> Shopify app development (again).
 - 🔋 <b>What I do for fun:</b> I love to read, listen to podcasts or audiobooks, 3d printing, and grow in entreprenuership.
 - 📚 <b>Recent Book Favorites:</b> The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
 - 🎧 <b>Currently listening to:</b> Hillbilly Ellegy.
 
-### Vision Board:
+</br>
+
+### Goals:
 - Financial Freedom
 - Lauching my SaaS
 - Enterprise Chrome Extensions
 - College for Literature
 
-# Latest from the Blog:
+</br>
 
+### Latest from the Blog:
+
+</br>
 
 ### Stats:
 <p>
