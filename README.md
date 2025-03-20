@@ -9,6 +9,7 @@ I am a DevOps Engineer with 10++ years doing web development.
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-s--kiser--linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-kiser)
+
 #GitHub Stats here
 
 ---
