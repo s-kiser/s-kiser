@@ -4,12 +4,9 @@
 
 # About Me:
 
-### Fun Facts:
-I am a DevOps Engineer with 10++ years doing web development.
-- 🔭 I’m working as a DevOps consultant for a few really cool companies.
 - 🌱 Currently learning: Shopify app development (again).
-- 🔋 I love to read, listen to podcasts or audiobooks, and grow in entreprenuership.
-- 📚 Recent favorites: The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
+- 🔋 What I do for fun: I love to read, listen to podcasts or audiobooks, and grow in entreprenuership.
+- 📚 Recent Book Favorites: The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
 - 🎧 Currently listening to: Hillbilly Ellegy.
 
 ---
@@ -23,10 +20,13 @@ I am a DevOps Engineer with 10++ years doing web development.
 ### Basic Info
 
 ```yaml
+Intro: I am a DevOps Engineer with 10++ years doing web development.
 Name: Stephen Elisha Kiser
 Age: 27
 Lives in: Texas
 Education: Self Taught, 1997 - present
+Favorte Books: Goodnight Mr Tom, Crispin the cross of lead, The Redwall Series, The Dark is Riising Series.
+Fun Fact: I have never been to school a day in my life.
 ```
 
 
