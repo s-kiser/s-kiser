@@ -4,18 +4,21 @@
 
 # About Me:
 
-- 🌱 Currently learning: Shopify app development (again).
-- 🔋 What I do for fun: I love to read, listen to podcasts or audiobooks, and grow in entreprenuership.
-- 📚 Recent Book Favorites: The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
-- 🎧 Currently listening to: Hillbilly Ellegy.
+- 🌱 <b>Currently learning:</b> Shopify app development (again).
+- 🔋 <b>What I do for fun:</b> I love to read, listen to podcasts or audiobooks, and grow in entreprenuership.
+- 📚 <b>Recent Book Favorites:</b> The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
+- 🎧 <b>Currently listening to:</b> Hillbilly Ellegy.
 
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-s--kiser--linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-kiser)
 
 <p>
-#GitHub Stats
-#Most used languages
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-kiser&theme=onedark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kiser&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 ---
