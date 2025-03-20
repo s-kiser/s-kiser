@@ -43,7 +43,7 @@
 Summary: I am a DevOps Engineer with 10++ years doing web development.
 Name: Stephen Elisha Kiser
 Age: 27
-Lives in: Texas
+Location: Texas
 Education: Self Taught, 1997 - present
 Favorte Books:
   - "Goodnight Mr Tom"
