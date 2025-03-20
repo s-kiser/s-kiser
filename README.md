@@ -40,6 +40,7 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="45" height="45"/>
@@ -68,16 +69,16 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kiser&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!--
 ### Linux Favorites:
-
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" alt="awk" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="debian" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg" alt="nano" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" alt="redhat" width="45" height="45"/>
-</p>
+</p> 
+-->
 
 ### Hobbies:
 <p align="left">
