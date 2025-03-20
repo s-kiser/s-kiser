@@ -30,6 +30,7 @@ Lives in: Texas
 Education: Self Taught, 1997 - present
 Favorte Books: Goodnight Mr Tom, Crispin: The Cross of Lead, The Redwall Series, The Dark is Riising Series.
 Fun Fact: I have never been to school a day in my life.
+Biggest Accomplishment: Creating an E-Commerce system from scratch.
 ```
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kiser&show_icons=true&theme=onedark&hide=issues,contribs&show=xxx)
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kiser&show_icons=true&theme=onedark&hide=issues,stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) -->
