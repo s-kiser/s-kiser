@@ -7,14 +7,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-s--kiser--linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-kiser)
 </p>
 
----
-
 - 🌱 <b>Currently learning:</b> Shopify app development (again).
 - 🔋 <b>What I do for fun:</b> I love to read, listen to podcasts or audiobooks, and grow in entreprenuership.
 - 📚 <b>Recent Book Favorites:</b> The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
 - 🎧 <b>Currently listening to:</b> Hillbilly Ellegy.
-
----
 
 ### Top Tools:
 <p align="left">
@@ -47,14 +43,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
 </p>
 
----
-
 <p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-kiser&theme=onedark)](https://git.io/streak-stats) 
 </p>
-
----
 
 ### Basic Info
 
