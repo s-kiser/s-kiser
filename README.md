@@ -7,6 +7,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-s--kiser--linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-kiser)
 </p>
 
+---
+
+- 🌱 <b>Currently learning:</b> Shopify app development (again).
+- 🔋 <b>What I do for fun:</b> I love to read, listen to podcasts or audiobooks, and grow in entreprenuership.
+- 📚 <b>Recent Book Favorites:</b> The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
+- 🎧 <b>Currently listening to:</b> Hillbilly Ellegy.
+
+---
+
 ### Top Tools:
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
@@ -36,30 +45,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
-</p>
-
----
-
-- 🌱 <b>Currently learning:</b> Shopify app development (again).
-- 🔋 <b>What I do for fun:</b> I love to read, listen to podcasts or audiobooks, and grow in entreprenuership.
-- 📚 <b>Recent Book Favorites:</b> The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
-- 🎧 <b>Currently listening to:</b> Hillbilly Ellegy.
-
----
-
-### Hobbies:
-<p align="left">
-<img src="" alt="" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
-<img src="" alt="readiing" width="45" height="45"/>
-<img src="" alt="wriiting" width="45" height="45"/>
-<img src="" alt="youtube" width="45" height="45"/>
-<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg
-<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg
-<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg
-<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg
 </p>
 
 ---
@@ -99,6 +84,21 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" alt="redhat" width="45" height="45"/>
 </p> 
 -->
+
+### Hobbies:
+<p align="left">
+<img src="" alt="" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
+<img src="" alt="readiing" width="45" height="45"/>
+<img src="" alt="wriiting" width="45" height="45"/>
+<img src="" alt="youtube" width="45" height="45"/>
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg
+</p>
 
 ### Vision Board:
 - Financial Freedom
