@@ -7,12 +7,13 @@
   [![Linkedin Badge](https://img.shields.io/badge/-s--kiser--linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-kiser)
 </p>
 
----
+</br>
 
 # Top Tools:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
@@ -40,7 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
 </p>
 
----
+</br>
 
 # Basic Info
 ```yaml
@@ -83,12 +84,12 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
 <img src="" alt="readiing" width="45" height="45"/>
-<img src="" alt="wriiting" width="45" height="45"/>
-<img src="" alt="youtube" width="45" height="45"/>
-<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg
-<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg
-<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg
-<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg
+<img src="" alt="writing" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="dgitalocean" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="trello" width="45" height="45"/>
 </p>
 
 ### Vision Board:
