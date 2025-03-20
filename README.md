@@ -50,6 +50,9 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 <img src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" alt="awk" width="45" height="45"/>
 </p>
 
+### Hobbies:
+#Blender, #Godot, #reading, #writing, #YouTube
+
 
 ### Vision Board:
 - Financial Freedom
