@@ -54,16 +54,16 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="45" height="45"/>
-<img src="" alt="docker" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg
-<img src="" alt="podman" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg
-<img src="" alt="portainer" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original-wordmark.svg
-<img src="" alt="drupal" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg
-<img src="" alt="vuejs" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg
-<img src="" alt="gitlab" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg
-<img src="" alt="npm" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg
-<img src="" alt="postman" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg
-<img src="" alt="rust" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg
-<img src="" alt="wordpress" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" alt="podman" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original-wordmark.svg" alt="portainer" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg" alt="drupal" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kiser&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
