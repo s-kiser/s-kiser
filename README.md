@@ -12,9 +12,8 @@
 # Top Tools:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="aws" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="45" height="45"/>
@@ -32,6 +31,7 @@
 
 # Other:
 <p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="apache2" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="rails" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="45" height="45"/>
