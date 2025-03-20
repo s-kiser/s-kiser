@@ -3,50 +3,46 @@
 </p>
 
 <p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-s--kiser--linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-kiser)
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-s--kiser--linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-kiser)
 </p>
 
 ---
 
-### Top Tools:
+# Top Tools:
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="rails" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" alt="podman" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" alt="portainer" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg" alt="drupal" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="rails" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" alt="podman" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" alt="portainer" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg" alt="drupal" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
 </p>
 
-<p>
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-kiser&theme=onedark)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kiser&show_icons=true&theme=onedark&hide=issues,contribs&show=xxx)
-</p>
-
-### Basic Info
-
+# Basic Info
 ```yaml
 Summary: I am a DevOps Engineer with 10++ years doing web development.
 Name: Stephen Elisha Kiser
@@ -74,12 +70,13 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 </p> 
 -->
 
+# Ice-Breaker:
 - 🌱 <b>Currently learning:</b> Shopify app development (again).
 - 🔋 <b>What I do for fun:</b> I love to read, listen to podcasts or audiobooks, and grow in entreprenuership.
 - 📚 <b>Recent Book Favorites:</b> The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
 - 🎧 <b>Currently listening to:</b> Hillbilly Ellegy.
 
-### Hobbies:
+# Hobbies:
 <p align="left">
 <img src="" alt="" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
@@ -101,6 +98,13 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 - College for Literature
 
 # Latest from the Blog:
+
+
+### Stats:
+<p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-kiser&theme=onedark)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kiser&show_icons=true&theme=onedark&hide=issues,contribs&show=xxx)
+</p>
 
 
 ### Support Me:
