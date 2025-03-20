@@ -66,7 +66,7 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kiser&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kiser&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Linux Favorites:
 
