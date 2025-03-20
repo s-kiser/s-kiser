@@ -31,6 +31,16 @@ Education: Self Taught, 1997 - present
 
 
 ### Top Tools:
+<p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="45" height="45"/>
+</p>
+
+### Linux Favorites:
+
+<p align="left">
+<img src="" alt="" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" alt="awk" width="45" height="45"/>
+</p>
 
 
 ### Vision Board:
