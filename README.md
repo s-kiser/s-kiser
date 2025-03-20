@@ -15,8 +15,7 @@
 
 <p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kiser&show_icons=true&theme=onedark&hide=issues,stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-kiser&theme=onedark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kiser&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-kiser&theme=onedark)](https://git.io/streak-stats) 
 </p>
 
 ---
@@ -32,12 +31,15 @@ Education: Self Taught, 1997 - present
 Favorte Books: Goodnight Mr Tom, Crispin: The Cross of Lead, The Redwall Series, The Dark is Riising Series.
 Fun Fact: I have never been to school a day in my life.
 ```
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kiser&show_icons=true&theme=onedark&hide=issues,stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
 
 
 ### Top Tools:
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="45" height="45"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kiser&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linux Favorites:
 
