@@ -54,6 +54,7 @@ Favorte Books:
   - "The Sea of Trolls"
 Fun Fact: I have never been to school a day in my life.
 Biggest Accomplishment: Creating an E-Commerce system from scratch.
+What is Agile: A set of values and principles, that CAN lead to a mindset.
 ```
 
 </br>
