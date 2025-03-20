@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=S-Kiser&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 # About Me:
+
+### Fun Facts:
 I am a DevOps Engineer with 10++ years doing web development.
 - 🔭 I’m working as a DevOps consultant for a few really cool companies.
 - 🌱 Currently learning: Shopify app development (again).
@@ -13,6 +19,16 @@ I am a DevOps Engineer with 10++ years doing web development.
 #GitHub Stats here
 
 ---
+
+### Basic Info
+
+```yaml
+Name: Stephen Elisha Kiser
+Age: 27
+Lives in: Texas
+Education: Self Taught, 1997 - present
+```
+
 
 ### Top Tools:
 
