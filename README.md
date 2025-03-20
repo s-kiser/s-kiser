@@ -38,7 +38,11 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 
 ### Top Tools:
 <p align="left">
+  https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="45" height="45"/>
+  https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg
+  https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg
+  https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kiser&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
@@ -49,17 +53,20 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 <img src="" alt="" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" alt="awk" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+  https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg
 </p>
 
 ### Hobbies:
 <p align="left">
 <img src="" alt="" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
-<img src="" alt="godot" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
 <img src="" alt="readiing" width="45" height="45"/>
 <img src="" alt="wriiting" width="45" height="45"/>
 <img src="" alt="youtube" width="45" height="45"/>
+  https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg
+  https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg
 </p>
 
 
