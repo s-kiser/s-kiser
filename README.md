@@ -42,6 +42,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg" alt="drupal" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/saltstack/saltstack-icon.svg" alt="salt" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
 </p>
 
