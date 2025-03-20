@@ -56,13 +56,17 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 <img src="" alt="" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
 <img src="" alt="godot" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
+<img src="" alt="readiing" width="45" height="45"/>
+<img src="" alt="wriiting" width="45" height="45"/>
+<img src="" alt="youtube" width="45" height="45"/>
 </p>
-#Blender, #Godot, #reading, #writing, #YouTube
 
 
 ### Vision Board:
 - Financial Freedom
 - Lauching my SaaS
+- Enterprise Chrome Extensions
 - College for Literature
 
 # Latest from the Blog:
