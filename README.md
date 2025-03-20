@@ -15,9 +15,7 @@
 
 <p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-kiser&theme=onedark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kiser&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kiser&show_icons=true&theme=onedark&hide=issues,stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-kiser&theme=onedark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kiser&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
@@ -55,6 +53,10 @@ Fun Fact: I have never been to school a day in my life.
 - College for Literature
 
 # Latest from the Blog:
+
+
+### Support Me:
+#BuyMeACoffee
 
 
 
