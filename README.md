@@ -7,10 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-s--kiser--linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-kiser)
 </p>
 
-- 🌱 <b>Currently learning:</b> Shopify app development (again).
-- 🔋 <b>What I do for fun:</b> I love to read, listen to podcasts or audiobooks, and grow in entreprenuership.
-- 📚 <b>Recent Book Favorites:</b> The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
-- 🎧 <b>Currently listening to:</b> Hillbilly Ellegy.
+---
 
 ### Top Tools:
 <p align="left">
@@ -45,7 +42,7 @@
 
 <p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-kiser&theme=onedark)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-kiser&theme=onedark)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kiser&show_icons=true&theme=onedark&hide=issues,contribs&show=xxx)
 </p>
 
 ### Basic Info
@@ -60,7 +57,7 @@ Favorte Books: Goodnight Mr Tom, Crispin: The Cross of Lead, The Redwall Series,
 Fun Fact: I have never been to school a day in my life.
 Biggest Accomplishment: Creating an E-Commerce system from scratch.
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kiser&show_icons=true&theme=onedark&hide=issues,contribs&show=xxx)
+
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kiser&show_icons=true&theme=onedark&hide=issues,stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) -->
 
 
@@ -76,6 +73,11 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" alt="redhat" width="45" height="45"/>
 </p> 
 -->
+
+- 🌱 <b>Currently learning:</b> Shopify app development (again).
+- 🔋 <b>What I do for fun:</b> I love to read, listen to podcasts or audiobooks, and grow in entreprenuership.
+- 📚 <b>Recent Book Favorites:</b> The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
+- 🎧 <b>Currently listening to:</b> Hillbilly Ellegy.
 
 ### Hobbies:
 <p align="left">
