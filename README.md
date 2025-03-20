@@ -38,32 +38,32 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 
 ### Top Tools:
 <p align="left">
-  https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg
-  https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="45" height="45"/>
-  https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg
-  https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original-wordmark.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kiser&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
@@ -71,13 +71,12 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 ### Linux Favorites:
 
 <p align="left">
-  https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg
-<img src="" alt="" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" alt="awk" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="debian" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg" alt="nano" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" alt="redhat" width="45" height="45"/>
 </p>
 
 ### Hobbies:
@@ -89,10 +88,10 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 <img src="" alt="readiing" width="45" height="45"/>
 <img src="" alt="wriiting" width="45" height="45"/>
 <img src="" alt="youtube" width="45" height="45"/>
-  https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg
+<img src="" alt="" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg
   
 </p>
 
