@@ -38,21 +38,21 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 
 ### Top Tools:
 <p align="left">
-<img src="" alt="linux" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg
-<img src="" alt="ubuntu" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg
-<img src="" alt="vagrant" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg
-<img src="" alt="nginx" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg
-<img src="" alt="git" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg
-<img src="" alt="grafana" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg
-<img src="" alt="jenkins" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg
-<img src="" alt="ruby" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg
-<img src="" alt="lua" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg
-<img src="" alt="php" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg
-<img src="" alt="python" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
-<img src="" alt="mysql" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg
-<img src="" alt="rails" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg
-<img src="" alt="symfony" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg
-<img src="" alt="java" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="rails" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="45" height="45"/>
 <img src="" alt="docker" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg
 <img src="" alt="podman" width="45" height="45"/>https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg
