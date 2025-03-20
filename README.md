@@ -5,7 +5,10 @@
 <p align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=InVision&logoColor=white)](https://linkedin.com/in/s-kiser)
- <!-- [![Facebook Badge](https://img.shields.io/badge/facebook-cornflowerblue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/s-kiser)
+ <!--
+  [![Facebook Badge](https://img.shields.io/badge/facebook-cornflowerblue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/s-kiser)
+  [![Freelancer Badge](https://img.shields.io/badge/freelancer-cadetblue?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelancer.com/s-kiser)
+  [![Upwork Badge](https://img.shields.io/badge/upwork-darkgreen?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/s-kiser)
   [![twitter-x Badge](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/s-kiser)
   [![Instagram Badge](https://img.shields.io/badge/instagram-indianred?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s-kiser)
   [![Threads Badge](https://img.shields.io/badge/threads-black?style=for-the-badge&logo=threads&logoColor=white)](https://threads.com/s-kiser)
