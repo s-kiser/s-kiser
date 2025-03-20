@@ -48,6 +48,7 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 <p align="left">
 <img src="" alt="" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" alt="awk" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
 
 ### Hobbies:
