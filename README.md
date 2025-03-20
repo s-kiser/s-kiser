@@ -2,9 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?text=S-Kiser&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<p>
+<p align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-s--kiser--linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-kiser)
+  [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=InVision&logoColor=white)](https://linkedin.com/in/s-kiser)
+ <!-- [![Facebook Badge](https://img.shields.io/badge/facebook-cornflowerblue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/s-kiser)
+  [![twitter-x Badge](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/s-kiser)
+  [![Instagram Badge](https://img.shields.io/badge/instagram-indianred?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s-kiser)
+  [![Threads Badge](https://img.shields.io/badge/threads-black?style=for-the-badge&logo=threads&logoColor=white)](https://threads.com/s-kiser)
+  [![YouTube Badge](https://img.shields.io/badge/youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@s-kiser)
+  [![Medium Badge](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@s-kiser)
+  [![Dev.To Badge](https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/s-kiser)-->
 </p>
 
 </br>
