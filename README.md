@@ -18,6 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethius" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
@@ -79,7 +80,7 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 
 # Ice-Breaker:
 - 🌱 <b>Currently learning:</b> Shopify app development (again).
-- 🔋 <b>What I do for fun:</b> I love to read, listen to podcasts or audiobooks, and grow in entreprenuership.
+- 🔋 <b>What I do for fun:</b> I love to read, listen to podcasts or audiobooks, 3d printing, and grow in entreprenuership.
 - 📚 <b>Recent Book Favorites:</b> The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
 - 🎧 <b>Currently listening to:</b> Hillbilly Ellegy.
 
