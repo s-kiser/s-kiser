@@ -38,7 +38,13 @@ Name: Stephen Elisha Kiser
 Age: 27
 Lives in: Texas
 Education: Self Taught, 1997 - present
-Favorte Books: Goodnight Mr Tom, Crispin: The Cross of Lead, The Redwall Series, The Dark is Riising Series.
+Favorte Books:
+  - "Goodnight Mr Tom"
+  - "Crispin: The Cross of Lead"
+  - "The Redwall Series"
+  - "The Dark is Rising Series"
+  - "The House of The Scorpion"
+  - "The Sea of Trolls"
 Fun Fact: I have never been to school a day in my life.
 Biggest Accomplishment: Creating an E-Commerce system from scratch.
 ```
