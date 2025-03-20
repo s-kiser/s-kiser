@@ -13,19 +13,22 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-s--kiser--linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-kiser)
 
-#GitHub Stats here
+<p>
+#GitHub Stats
+#Most used languages
+</p>
 
 ---
 
 ### Basic Info
 
 ```yaml
-Intro: I am a DevOps Engineer with 10++ years doing web development.
+Summary: I am a DevOps Engineer with 10++ years doing web development.
 Name: Stephen Elisha Kiser
 Age: 27
 Lives in: Texas
 Education: Self Taught, 1997 - present
-Favorte Books: Goodnight Mr Tom, Crispin the cross of lead, The Redwall Series, The Dark is Riising Series.
+Favorte Books: Goodnight Mr Tom, Crispin: The Cross of Lead, The Redwall Series, The Dark is Riising Series.
 Fun Fact: I have never been to school a day in my life.
 ```
 
