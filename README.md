@@ -46,6 +46,24 @@
   <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/saltstack/saltstack-icon.svg" alt="salt" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="trello" width="45" height="45"/>
+</p>
+
+</br>
+
+# Hobbies:
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
+  <img src="" alt="readiing" width="45" height="45"/>
+  <img src="" alt="writing" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="dgitalocean" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
 </p>
 
 </br>
@@ -84,22 +102,6 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 - 📚 <b>Recent Book Favorites:</b> The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
 - 🎧 <b>Currently listening to:</b> Hillbilly Ellegy.
 
-# Hobbies:
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
-<img src="" alt="readiing" width="45" height="45"/>
-<img src="" alt="writing" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="dgitalocean" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="trello" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
-</p>
-
 ### Vision Board:
 - Financial Freedom
 - Lauching my SaaS
@@ -117,7 +119,9 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 
 
 ### Support Me:
-#BuyMeACoffee
+<p>
+<a href="https://www.buymeacoffee.com/s-kiser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
 
 
 
