@@ -21,24 +21,28 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="rails" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
+</p>
+
+</br>
+
+# Other:
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="rails" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" alt="podman" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" alt="portainer" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg" alt="drupal" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
 </p>
 
 </br>
@@ -79,17 +83,18 @@ Biggest Accomplishment: Creating an E-Commerce system from scratch.
 
 # Hobbies:
 <p align="left">
-<img src="" alt="" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
 <img src="" alt="readiing" width="45" height="45"/>
 <img src="" alt="writing" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="dgitalocean" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="dgitalocean" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="trello" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
 </p>
 
 ### Vision Board:
