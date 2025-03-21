@@ -8,6 +8,7 @@
  <!--
   [![Facebook Badge](https://img.shields.io/badge/facebook-cornflowerblue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/s-kiser)
   [![Freelancer Badge](https://img.shields.io/badge/freelancer-cadetblue?style=for-the-badge&logo=freelancer&logoColor=white)](https://freelancer.com/s-kiser)
+  [![Fiverr Badge](https://img.shields.io/badge/fiverr-forrestgreen?style=for-the-badge)](https://fiverr.com/s-kiser)
   [![Upwork Badge](https://img.shields.io/badge/upwork-darkgreen?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/s-kiser)
   [![twitter-x Badge](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/s-kiser)
   [![Instagram Badge](https://img.shields.io/badge/instagram-indianred?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s-kiser)
@@ -117,7 +118,7 @@ What is Agile: A set of values and principles, that CAN lead to a mindset.
 -->
 
 ### Ice-Breaker:
-- 🌱 <b>Currently learning:</b> Shopify app development (again).
+- 🌱 <b>Currently learning:</b> Shopify app development.
 - 🔋 <b>What I do for fun:</b> I love to read, listen to podcasts or audiobooks, 3d printing, and grow in entreprenuership.
 - 📚 <b>Recent Book Favorites:</b> The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
 - 🎧 <b>Currently listening to:</b> Hillbilly Ellegy.
