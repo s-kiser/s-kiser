@@ -136,12 +136,14 @@ What is Agile: A set of values and principles, that CAN lead to a mindset.
 ### Latest from the Blog:
 
 </br>
-
+<!--
 ### Stats:
 <p>
-
+-->
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-kiser&theme=onedark)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kiser&show_icons=true&theme=onedark&hide=issues,contribs&show=xxx)
 </p>
+-->
 
 <!--
 ### Support Me:
