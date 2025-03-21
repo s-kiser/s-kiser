@@ -132,8 +132,9 @@ What is Agile: A set of values and principles, that CAN lead to a mindset.
 - College for Literature
 
 </br>
-
+<!--
 ### Latest from the Blog:
+-->
 
 </br>
 <!--
