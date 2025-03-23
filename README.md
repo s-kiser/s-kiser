@@ -42,6 +42,10 @@
 
 </br>
 
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
+
+</br>
+
 ### Basic Info
 ```yaml
 Summary: I am a DevOps Engineer with 10++ years doing web development.
