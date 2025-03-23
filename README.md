@@ -42,7 +42,7 @@
 
 </br>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 <!-- ![](./profile-3d-contrib/profile-night-view.svg) -->
 <!-- ![](./profile-3d-contrib/profile-south-season-animate.svg) -->
 
@@ -158,6 +158,8 @@ What is Agile: A set of values and principles, that CAN lead to a mindset.
 <a href="https://www.buymeacoffee.com/s-kiser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 -->
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
