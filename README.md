@@ -161,6 +161,12 @@ What is Agile: A set of values and principles, that CAN lead to a mindset.
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+</br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=DevOps&animation=fadeIn&type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 
 <!--
