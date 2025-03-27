@@ -53,7 +53,7 @@
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
   <!-- <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="45" height="45"/> -->
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="aws" width="50" title="AWS" />
+  <img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="aws" width="45" title="AWS" />
   <!-- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/> -->
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="45" height="45" title="vagrant"/>
