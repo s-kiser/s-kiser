@@ -20,6 +20,38 @@
 
 </br>
 
+<table border-style="none">
+		<th>🌱 Currently learning</th>		<th>🔋 What I do for fun</th>		<th>📚 Recent Books</th>		<th>🎧 Currently listening to</th>
+	<tr>	<td>Shopify app development.</td>	<td>Reading</td> 			<td>The Art of the Deal</td> 		<td>Hillbilly Ellegy</td> </tr>
+	<tr>	<td></td>				<td>Listen to podcasts/audiobooks</td>  <td>The 4-Hour Workweek</td> 		<td></td> </tr>
+	<tr>	<td></td> 				<td>3D printing</td>			<td>Atomic Habits</td> 			<td></td> </tr>
+	<tr> 	<td></td> 				<td>Grow in entreprenuership</td> 	<td>Thoughts are Things</td> 		<td></td> </tr>
+</table>
+
+<!-- 
+### 🌱 Currently learning:
+- Shopify app development.
+
+### 🔋 What I do for fun:
+- Reading
+- listen to podcasts/audiobooks
+- 3d printing
+- grow in entreprenuership
+
+### 📚 Recent Books:
+- The Art of the Deal
+- The 4-Hour Workweek
+- Atomic-Habits
+- Thoughts are Things
+
+
+### 🎧 Currently listening to:
+- Hillbilly Ellegy.
+
+-->
+
+</br>
+
 ### Top Tools:
 
 <!-- https://marwin1991.github.io/profile-technology-icons/ -->
@@ -188,14 +220,6 @@ What is Agile: A set of values and principles, that CAN lead to a mindset.
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" alt="redhat" width="45" height="45"/>
 </p> 
 -->
-
-### Ice-Breaker:
-- 🌱 <b>Currently learning:</b> Shopify app development.
-- 🔋 <b>What I do for fun:</b> I love to read, listen to podcasts or audiobooks, 3d printing, and grow in entreprenuership.
-- 📚 <b>Recent Book Favorites:</b> The Art of the Deal, The 4-Hour Workweek, Atomic-Habits, Thoughts are Things.
-- 🎧 <b>Currently listening to:</b> Hillbilly Ellegy.
-
-</br>
 
 ### Goals:
 - Financial Freedom
