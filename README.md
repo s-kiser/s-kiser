@@ -25,7 +25,7 @@
 	<tr>	<td>Shopify app development.</td>	<td>Reading</td> 			<td>The Art of the Deal</td> 		<td>Hillbilly Ellegy</td> </tr>
 	<tr>	<td></td>				<td>Listen to podcasts/audiobooks</td>  <td>The 4-Hour Workweek</td> 		<td></td> </tr>
 	<tr>	<td></td> 				<td>3D printing</td>			<td>Atomic Habits</td> 			<td></td> </tr>
-	<tr> 	<td></td> 				<td>Grow in entreprenuership</td> 	<td>Thoughts are Things</td> 		<td></td> </tr>
+	<tr> 	<td></td> 				<td>Entreprenuership</td> 		<td>Thoughts are Things</td> 		<td></td> </tr>
 </table>
 
 <!-- 
