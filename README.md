@@ -56,19 +56,28 @@
   <img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="aws" width="45" height="45"/>
   <!-- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/> -->
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="45" height="45" title="vagrant"/>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/> -->
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethius" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="45" height="45"/> -->
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="50" title="Grafana" />
+  <!-- <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana"/> -->
+  <!-- <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethius" width="45" height="45"/> -->
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="55" title="Jenkins"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="45" height="45"/> -->
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby.png" alt="Ruby" title="Ruby"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> -->
+  <!-- <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php_(elephpant).png" alt="php" title="php"/> -->
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> -->
+   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/> -->
+  <img width="65" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="50" height="50" title="Ansible"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/> -->
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/>
 </p>
 
 </br>
