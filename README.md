@@ -129,7 +129,7 @@ Location: Texas
 Education: Self Taught, 1997 - present
 Favorte Books:
   - "Goodnight Mr Tom"
-  - "The Richest Man Who Ever Lived": Steven K Scott
+  - "The Richest Man Who Ever Lived" by Steven K Scott
   - "Crispin: The Cross of Lead"
   - "The Redwall Series"
   - "The Dark is Rising Series"
