@@ -112,21 +112,25 @@ What is Agile: A set of values and principles, that CAN lead to a mindset.
 
 ### Other:
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="apache2" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="rails" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" alt="podman" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" alt="portainer" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg" alt="drupal" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/saltstack/saltstack-icon.svg" alt="salt" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="trello" width="45" height="45"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="apache2" width="45" height="45"/> -->
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="rails" width="45" height="45"/> -->
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="65" title="Java" />
+  <!-- <img width="65" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/> -->
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="45" height="45"/> -->
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="60" title="Docker" /> -->
+  <img width="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" alt="portainer" width="45" height="45"/> -->
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/> -->
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="GitLab" title="GitLab"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg" alt="drupal" width="50" title="Drupal" />
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="45" height="45"/> -->
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" alt="Wordpress" title="Wordpress"/>
+  <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef" width="50" title="Chef" />
+  <!-- <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" width="45" title="Puppet" />
+  <img src="https://www.vectorlogo.zone/logos/saltstack/saltstack-icon.svg" alt="salt" width="45" title="Salt" /> -->
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/> -->
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="trello" width="45" height="45"/> -->
 </p>
 
 <!--
@@ -164,6 +168,7 @@ What is Agile: A set of values and principles, that CAN lead to a mindset.
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/> -->
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" alt="Lua" title="Lua"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" alt="podman" width="45" title="Podman" />
 </p>
 
 </br>
