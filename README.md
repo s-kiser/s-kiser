@@ -122,7 +122,7 @@
 
 ### Basic Info
 ```yaml
-Summary: I am a DevOps Engineer with 10++ years doing web development.
+Introduction: I am a DevOps Engineer with 10++ years doing web development.
 Name: Stephen Elisha Kiser
 Age: 27
 Location: Texas
