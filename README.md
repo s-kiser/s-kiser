@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=S-Kiser&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=S-Kiser&animation=fadeIn&type=waving&color=gradient&height=125"/>
 </p>
 
 <p align="center">
@@ -254,7 +254,7 @@ What is Agile: A set of values and principles, that CAN lead to a mindset.
 </br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=DevOps&animation=fadeIn&type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?text=DevOps&animation=fadeIn&type=waving&color=gradient&height=125&section=footer"/>
 </p>
 
 
