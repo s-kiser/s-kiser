@@ -53,6 +53,7 @@
 </br>
 
 ### Top Tools:
+<!--[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,aws,nginx,bash,git,grafana,prometheus,jenkins,ruby,php,python,mysql,ansible,chef,salt,puppet&theme=light&perline=8)](https://skillicons.dev)-->
 
 <!-- https://marwin1991.github.io/profile-technology-icons/ -->
 
