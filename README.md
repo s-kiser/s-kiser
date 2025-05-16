@@ -129,7 +129,7 @@ Age: 27
 Location: Texas
 Education: Self Taught, 1997 - present
 Favorite Songs: Buy Dirt, John-Deer Green
-Favorte Books:
+Favorite Books:
   - "Goodnight Mr Tom"
   - "The Richest Man Who Ever Lived" by Steven K Scott
   - "Crispin: The Cross of Lead"
