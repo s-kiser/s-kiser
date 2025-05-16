@@ -128,6 +128,7 @@ Name: Stephen Elisha Kiser
 Age: 27
 Location: Texas
 Education: Self Taught, 1997 - present
+Favorite Songs: Buy Dirt, John-Deer Green
 Favorte Books:
   - "Goodnight Mr Tom"
   - "The Richest Man Who Ever Lived" by Steven K Scott
@@ -136,7 +137,7 @@ Favorte Books:
   - "The Dark is Rising Series"
   - "The House of The Scorpion"
   - "The Sea of Trolls"
-Fun Fact: I have never been to school a day in my life.
+Fun Fact: I have never been to school a day in my life. (How's my spelling?)
 Biggest Accomplishment: Creating an E-Commerce system from scratch.
 What is Agile: A set of values and principles, that CAN lead to a mindset.
 ```
